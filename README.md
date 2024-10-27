@@ -1,7 +1,5 @@
 Privacy Policy for Private Photo Vault
 
-Effective Date: [Insert Date]
-
 Company Name: Peter DAT
 
 Contact Information: For any questions or concerns regarding this Privacy Policy, please contact us at: datnguyendev.ios@gmail.com.
